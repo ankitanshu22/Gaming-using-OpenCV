@@ -7,13 +7,10 @@ In version1, I used a fixed reference boundary. If nose reference is out of boun
 
 
 ## Dependencies
-This is the list of dependencies for running this application. Use pip to install them.
+This is the list of dependencies for running this application. 
  * **opencv**
  * **keyboard**
 
- ```
- $ pip install -r requirements.txt
- ```
 
 ## How to use
 1. Download or clone this repository.
